@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>HNG internship stage 1</title>
+	<title>HNG Internship stage 1</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
